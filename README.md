@@ -30,7 +30,7 @@ In addition to my thesis, I am a researcher at TUKL-NUST Research Development Ce
 
 ## Contact
 
-You can reach me at (initial_of_first_name)(last_name) at a(smme) dot (edu) dot (pk)
+You can reach me at (initial_of_first_name)(last_name) at (smme) dot (edu) dot (pk)
 
 ```markdown
 This stays here for future reference
