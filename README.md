@@ -24,8 +24,6 @@ In addition to my thesis, I am a researcher at TUKL-NUST Research Development Ce
 - Teacher Assistant at SMME, NUST (Jul 2016 - Present)
   - For graduate course Robotics-I taught by Dr. Muhammad Naveed (Sep 2016 - Feb 2017)
   - For graduate course Machine Learning taught by Dr. Hasan Sajid (Feb 2017 - Present)
-- Teacher Assistant at SEECS, NUST (Feb 2017 - Present)
-  - For graduate course Artificial Intelligence and Machine Learning taught by Dr. Faisal Shafait
 - Assistant Engineer (ICT) at Descon Engineering Services and Technology (Feb 2015 - Sep 2015)
 
 ## Contact
