@@ -28,23 +28,4 @@ In addition to my thesis, I am a researcher at TUKL-NUST Research Development Ce
 
 ## Contact
 
-You can reach me at (initial_of_first_name)(last_name) at (smme) dot (edu) dot (pk)
-
-```markdown
-This stays here for future reference
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+You can reach me at smaqbool(at)smme(dot)edu(dot)pk
