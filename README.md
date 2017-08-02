@@ -24,8 +24,8 @@ In addition to my thesis, I am a researcher at TUKL-NUST Research Development Ce
 
 - Summer Student at CERN (Jun 2017 - Sep 2017)
 - Design Engineer at SimpliCity Labs (Feb 2017 - May 2017)
-- Researcher at TUKL-NUST R&D Centre (Aug 2016 - Present)
-- Teacher Assistant at SMME, NUST (Jul 2016 - Present)
+- Researcher at TUKL-NUST R&D Centre (Aug 2016 - Jun 2017)
+- Teacher Assistant at SMME, NUST (Jul 2016 - Jun 2017)
   - For graduate course Machine Learning taught by Dr. Hasan Sajid (Spring 2017)
   - For graduate course Computer Vision taught by Dr. Muhammad Naveed (Spring 2017)
   - For graduate course Robotics-I taught by Dr. Muhammad Naveed (Fall 2016)
