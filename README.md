@@ -1,18 +1,16 @@
 ## Hello World
 
-I am Salman Maqbool, a 2nd year graduate student of Robotics and Intelligent Machines Engineering (RIME) at School of Mechanical and Manufacturing Engineering (SMME) at National University of Science and Technology (NUST), Pakistan. Long names, I know! Previously, I completed my mechanical engineering from the same institute, but my interests have since then moved on to Computer Science.
+I am Salman Maqbool, a graduate student of Robotics and Intelligent Machines Engineering (RIME) at School of Mechanical and Manufacturing Engineering (SMME) at National University of Science and Technology (NUST), Pakistan. Long names, I know! Previously, I completed my mechanical engineering from the same institute, but my interests have since then moved on to Computer Science.
 
 My research interests are Computer Vision, Machine Learning, and Deep Learning, and I would like to work on brain inspired Artifical Intelligence in the future.
 
 ## Affiliations
-Currently, I am a Sumemr Student at CERN; working on the track fitting and reconstruction algorithm development for ATLAS ITK upgrade and for CLIC - supervised by Dr. Moritz Kiehn and Dr. Simon Spannegel. 
 
-Back at my home university, I am working on my thesis about semantic segmentation of medical images at the Computer Vision and Machine Learning (CVML) lab under supervision of Dr. Hasan Sajid at SMME, NUST. Additionally, I have worked on a couple of other projects with my supervisor.
-
-In addition to my thesis, I am a researcher at TUKL-NUST Research Development Centre at NUST School of Electrical Engineering and Computer Science (SEECS) where I am working on fish detection and classification from underwater video feeds.
+Currently, I am researching on applications of deep learning in medical imaging, in paricular for laparoscopic surgeries. I am working on my thesis about semantic segmentation of medical images at the Computer Vision and Machine Learning (CVML) lab under supervision of Dr. Hasan Sajid at SMME, NUST. Additionally, I have worked on a couple of other projects with my supervisor.
 
 ## Projects
 
+- Effect of unsupervised feature learning for semantic segmentation (CVML lab)
 - Track fitting and reconstruction algorithm development (CERN)
 - Vehicle detection, classification, tracking, and counting using Deep Learning (SimpliCity Labs)
 - Semantic segmentation of medical images (CVML lab)
